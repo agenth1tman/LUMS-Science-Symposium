@@ -1,6 +1,6 @@
 # Is Education the Way?
 
-**LUMS Science Symposium — Data Science category · ISL PA Team A**
+**LUMS Science Symposium Data Science category · ISL PA Team A**
 Umer, Saad, Inayah, Hania & Minahil
 
 Does more education mean a higher chance of earning over $50K, does something else do more of the work, and for whom does education pay more or less? We answer this with the 1994 US Census "Adult" dataset (48,842 employed adults).
